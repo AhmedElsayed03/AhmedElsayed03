@@ -67,8 +67,3 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V3MXl4ZWxoa2E2M293OG9reGt3bXJsMTVpYTlsaHFlOHl3bGlseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy-downsized-large.gif"  />
-</div>
-
-###
