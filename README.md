@@ -1,12 +1,12 @@
-<h5 align="left">Hello There 👋</h5>
+<h2 align="left">Hello There 👋</h2>
 
 ###
 
-<h3 align="left">I'm a Backend Developer</h3>
+<h2 align="left">I'm a Backend Developer</h2>
 
 ###
 
-<p align="left">Contact me</p>
+<h4 align="left">Contact me</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Technologies</p>
+<h4 align="left">Technologies</h4>
 
 ###
 
